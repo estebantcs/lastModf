@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpriHibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/SpriHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpriHibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpriHibernate_main.iml" group="SpriHibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpriHibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpriHibernate_test.iml" group="SpriHibernate" />
+    </modules>
+  </component>
+</project>
